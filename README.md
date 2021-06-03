@@ -86,3 +86,9 @@ foo_bar () {
 Now lets try running our command
 
 `$ foo bar` returns `hello wandy-dev`
+
+#### Configuration file
+
+Clubs allows your script to source variables from a configuration file. This configuration is located at `~/.config/<your-script>/<your-script>rc`
+
+Based of the examples above, this would be `~/.config/foo/foorc`
