@@ -1,5 +1,6 @@
 #!/bin/bash
 
+source $CLUBS_DIR/colors.sh
 source $CLUBS_DIR/error.sh
 source $CLUBS_DIR/sub_commands.sh
 
