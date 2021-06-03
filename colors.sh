@@ -8,7 +8,7 @@ CYAN='\033[0;36m'
 WHITE='\033[1;37m'
 NC='\033[0m' # No Color
 
-cprint() {
+cecho() {
   case $1 in
     black) color=$BLACK;;
     red) color=$RED;;
