@@ -1,4 +1,4 @@
-# Commands line using bash scripts
+# Command line using bash scripts
 
 ## clubs
 
